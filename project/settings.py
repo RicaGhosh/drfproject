@@ -25,9 +25,9 @@ SECRET_KEY = 'django-insecure-fm^oqf9%p*r6yj^9ey-um)vsbwr!sv7x=2j02#m7r3)yr0z8*@
 # JWT_SECRET = 'zhjfykgukjlkjooDYTJFHBJNKJgfhbjjknjKJKJ674bhuESRFCH65415DGHN52fxg'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'ricag.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'ricag.pythonanywhere.com']
 
 
 # Application definition
